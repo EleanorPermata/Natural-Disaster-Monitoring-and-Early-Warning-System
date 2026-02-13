@@ -50,7 +50,7 @@ The system provides **real-time alerts** via:
 ---
 
 ## 💻 Source Code
-The complete implementation is available in the repository under [`src/disaster_monitoring.ino`](src/disaster_monitoring.ino).  
+The complete implementation is available in the repository under [`src/LPAN_Code_TP072606.ino`](src/LPAN_Code_TP072606.ino).  
 
 Here’s a quick snippet showing how disaster alerts are triggered:
 
